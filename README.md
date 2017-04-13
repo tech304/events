@@ -7,7 +7,15 @@ Events ideation and information for tech304 events and topics
 
 - HTML/DOM
 - JavaScript
+  - ES6
+  - Modules
+  - Frameworks
+  - etc.
 - Cascading Style Sheets
+  - LESS
+  - Sass
+  - Sprites
+  - etc.
 - Responsive design
 - Accessibility/WAI-ARIA
 - SEO
@@ -36,3 +44,9 @@ Events ideation and information for tech304 events and topics
 - Application performance monitoring
 - Synthetic testing
 - Cache layers
+
+### Mobile
+
+- iOS
+- Android
+- Hybrid web apps
