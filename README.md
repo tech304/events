@@ -8,6 +8,9 @@ Events ideation and information for tech304 events and topics
 - HTML/DOM
 - JavaScript
 - Cascading Style Sheets
+- Responsive design
+- Accessibility/WAI-ARIA
+- SEO
 
 ### Backend
 
@@ -16,6 +19,8 @@ Events ideation and information for tech304 events and topics
 - Python
 - .NET
 - Java
+- PHP
+- Go
 
 ### Database
 
