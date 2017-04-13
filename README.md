@@ -28,6 +28,8 @@ Events ideation and information for tech304 events and topics
 - nosql vs rdbms
 - MySQL (advanced)
 - MySQL specific tricks, tips, nuances, etc.
+- Redis
+- Memcached
 
 ### Performance
 
